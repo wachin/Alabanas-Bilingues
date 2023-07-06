@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:initial-creator>wachin</meta:initial-creator><meta:creation-date>2022-09-06T00:40:00</meta:creation-date><dc:date>2023-06-26T08:41:58.529132592</dc:date><meta:editing-cycles>15</meta:editing-cycles><meta:editing-duration>P8DT22H8M43S</meta:editing-duration><meta:generator>LibreOffice/7.0.4.2$Linux_x86 LibreOffice_project/00$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="57" meta:word-count="308" meta:character-count="1840" meta:non-whitespace-character-count="957"/><meta:user-defined meta:name="KSOProductBuildVer">3082-11.1.0.8392</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
+ <office:meta><meta:initial-creator>wachin</meta:initial-creator><meta:creation-date>2022-09-06T00:40:00</meta:creation-date><dc:date>2023-07-05T20:42:53.965517043</dc:date><meta:editing-cycles>17</meta:editing-cycles><meta:editing-duration>P8DT22H19M7S</meta:editing-duration><meta:generator>LibreOffice/7.0.4.2$Linux_x86 LibreOffice_project/00$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="57" meta:word-count="311" meta:character-count="1856" meta:non-whitespace-character-count="970"/><meta:user-defined meta:name="KSOProductBuildVer">3082-11.1.0.8392</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">1540</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">1348</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">31175</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">13134</config:config-item>
@@ -14,11 +14,11 @@
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
      <config:config-item config:name="ViewLeft" config:type="long">1771</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">2607</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">1771</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">1540</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">1348</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">31173</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">14672</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">14480</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -82,7 +82,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1620574</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1675333</config:config-item>
    <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
    <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
    <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
@@ -140,9 +140,7 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <ooo:library-embedded ooo:name="Standard"/>
-   </ooo:libraries>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -160,7 +158,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="es" fo:country="EC" style:letter-kerning="true" style:font-name-asian="SimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -259,65 +257,17 @@
  </office:styles>
  <office:automatic-styles>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Iosevka" fo:language="es" fo:country="EC" style:font-name-complex="Iosevka"/>
+   <style:text-properties style:font-name="Iosevka" fo:font-size="9.5pt" fo:language="es" fo:country="EC" fo:font-weight="normal" style:font-size-asian="9.5pt" style:font-weight-asian="normal" style:font-name-complex="Iosevka" style:font-size-complex="9.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Iosevka" fo:language="es" fo:country="EC" style:font-name-asian="Iosevka" style:font-name-complex="Iosevka"/>
+   <style:text-properties style:font-name="Iosevka" fo:font-size="9.5pt" fo:language="es" fo:country="EC" fo:font-weight="bold" style:font-size-asian="9.5pt" style:font-weight-asian="bold" style:font-name-complex="Iosevka" style:font-size-complex="9.5pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Iosevka" fo:language="es" fo:country="EC" fo:font-weight="bold" style:font-weight-asian="bold" style:font-name-complex="Iosevka" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Iosevka" fo:language="es" fo:country="EC" fo:font-weight="normal" style:font-weight-asian="normal" style:font-name-complex="Iosevka" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Iosevka" fo:font-size="9.5pt" fo:language="es" fo:country="EC" fo:font-weight="normal" style:font-size-asian="9.5pt" style:font-weight-asian="normal" style:font-name-complex="Iosevka" style:font-size-complex="9.5pt" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
    <style:paragraph-properties style:page-number="auto"/>
-   <style:text-properties style:font-name="Iosevka" fo:language="es" fo:country="EC" style:font-name-complex="Iosevka"/>
-  </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
-   <style:paragraph-properties style:page-number="auto"/>
-   <style:text-properties style:font-name="Iosevka" fo:language="es" fo:country="EC" fo:font-weight="bold" style:font-weight-asian="bold" style:font-name-complex="Iosevka" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
-   <style:paragraph-properties style:page-number="auto"/>
-   <style:text-properties style:font-name="Iosevka" fo:font-size="9.5pt" fo:language="es" fo:country="EC" fo:font-weight="normal" style:font-size-asian="9.5pt" style:font-weight-asian="normal" style:font-name-complex="Iosevka" style:font-size-complex="9.5pt" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
-   <style:paragraph-properties style:page-number="auto"/>
-   <style:text-properties style:font-name="Iosevka" fo:font-size="9.5pt" fo:language="es" fo:country="EC" fo:font-weight="normal" style:font-size-asian="9.5pt" style:font-weight-asian="normal" style:font-name-complex="Iosevka" style:font-size-complex="9.5pt" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Iosevka" fo:font-size="9.5pt" fo:language="es" fo:country="EC" fo:font-weight="normal" style:font-size-asian="9.5pt" style:font-weight-asian="normal" style:font-name-complex="Iosevka" style:font-size-complex="9.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Iosevka" fo:font-size="9.5pt" fo:language="es" fo:country="EC" fo:font-weight="bold" style:font-size-asian="9.5pt" style:font-weight-asian="bold" style:font-name-complex="Iosevka" style:font-size-complex="9.5pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
-   <style:text-properties style:font-name="Iosevka" fo:language="es" fo:country="EC" style:font-name-complex="Iosevka"/>
-  </style:style>
-  <style:style style:name="T2" style:family="text">
-   <style:text-properties style:font-name-asian="Iosevka"/>
-  </style:style>
-  <style:style style:name="T3" style:family="text">
-   <style:text-properties officeooo:rsid="001057b0"/>
-  </style:style>
-  <style:style style:name="T4" style:family="text">
-   <style:text-properties officeooo:rsid="0010e36d"/>
-  </style:style>
-  <style:style style:name="T5" style:family="text">
-   <style:text-properties officeooo:rsid="0013b043"/>
-  </style:style>
-  <style:style style:name="T6" style:family="text">
-   <style:text-properties officeooo:rsid="0014c1df"/>
-  </style:style>
-  <style:style style:name="T7" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="10pt" officeooo:rsid="0014c1df" style:font-name-asian="宋体" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
-  </style:style>
-  <style:style style:name="T8" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="10pt" officeooo:rsid="00163998" style:font-name-asian="宋体" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
-  </style:style>
-  <style:style style:name="T9" style:family="text">
-   <style:text-properties officeooo:rsid="00163998"/>
+   <style:text-properties officeooo:rsid="0018ba5e"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="34.999cm" fo:page-height="15cm" style:num-format="1" style:print-orientation="landscape" fo:margin-top="1.27cm" fo:margin-bottom="1.27cm" fo:margin-left="1.27cm" fo:margin-right="1.27cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="19" style:layout-grid-base-height="0.635cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.353cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm">
@@ -345,69 +295,69 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P9">The Power Of Your Love</text:p>
-   <text:p text:style-name="P5">Rebecca St James</text:p>
-   <text:p text:style-name="P5"/>
-   <text:p text:style-name="P5">Por C#m, BMP 100 Segun Chord IA https://chordai.net/</text:p>
-   <text:p text:style-name="P5">Para voz de Washington F#m</text:p>
-   <text:p text:style-name="P5"><text:s/></text:p>
-   <text:p text:style-name="P5">F#m C#m D <text:s/>E</text:p>
-   <text:p text:style-name="P5">F#m C#m D <text:s/>E</text:p>
-   <text:p text:style-name="P5">F#m C#m D <text:s/>E</text:p>
-   <text:p text:style-name="P5">F#m C#m D <text:s/>E</text:p>
-   <text:p text:style-name="P5"/>
-   <text:p text:style-name="P5"><text:s/>F#m <text:s text:c="3"/>E <text:s text:c="6"/>D <text:s text:c="3"/>Bm <text:s text:c="14"/>C#m <text:s text:c="5"/>F#m</text:p>
-   <text:p text:style-name="P5">Lord I come to You, let my heart be changed renewed</text:p>
-   <text:p text:style-name="P5"><text:s text:c="19"/>D <text:s text:c="13"/>C#m <text:s text:c="5"/>F#m C#m</text:p>
-   <text:p text:style-name="P5">Flowing from the grace that I&apos;ve found in You</text:p>
-   <text:p text:style-name="P5"><text:s/>F#m <text:s text:c="6"/>E <text:s text:c="7"/>D <text:s text:c="6"/>Bm <text:s text:c="10"/>C#m <text:s text:c="3"/>F#m</text:p>
-   <text:p text:style-name="P5">Lord I&apos;ve come to know the weaknesses I see in me</text:p>
-   <text:p text:style-name="P5"><text:s text:c="19"/>D <text:s/>E <text:s text:c="23"/>A</text:p>
-   <text:p text:style-name="P5">Will be stripped awaaaay by the power of Your love</text:p>
-   <text:p text:style-name="P5"/>
-   <text:p text:style-name="P5">Chorus:</text:p>
-   <text:p text:style-name="P5"><text:s/>D <text:s text:c="7"/>E <text:s text:c="21"/>A</text:p>
-   <text:p text:style-name="P5">Hold me close, let Your love surround me</text:p>
-   <text:p text:style-name="P5"><text:s/>D <text:s text:c="7"/>E <text:s text:c="21"/>F#m C#m</text:p>
-   <text:p text:style-name="P5">Bring me near <text:s/>draw me to your side</text:p>
-   <text:p text:style-name="P5"><text:s text:c="4"/>D <text:s text:c="4"/>E <text:s text:c="25"/>A <text:s text:c="4"/>F#m</text:p>
-   <text:p text:style-name="P5">And as I wait, I&apos;ll rise up like the eagle,</text:p>
-   <text:p text:style-name="P5"><text:s text:c="4"/>E <text:s text:c="16"/>D <text:s text:c="23"/>E</text:p>
-   <text:p text:style-name="P5">And I will soar with You, Your Spirit leads me on</text:p>
-   <text:p text:style-name="P5"><text:s text:c="22"/>F#m C#m D <text:s/>E</text:p>
-   <text:p text:style-name="P5">In the power of Your love</text:p>
-   <text:p text:style-name="P5"/>
-   <text:p text:style-name="P5">F#m C#m D <text:s/>E</text:p>
-   <text:p text:style-name="P5"><text:s/></text:p>
-   <text:p text:style-name="P5"><text:s/>F#m <text:s text:c="3"/>E <text:s text:c="5"/>D <text:s text:c="3"/>Bm <text:s text:c="14"/>C#m <text:s text:c="5"/>F#m</text:p>
-   <text:p text:style-name="P5">Lord unveil my eyes let me see You face to face</text:p>
-   <text:p text:style-name="P5"><text:s text:c="23"/>D <text:s text:c="10"/>C#m <text:s text:c="5"/>F#m C#m</text:p>
-   <text:p text:style-name="P5">The knowledge of Your love as You lives in me</text:p>
-   <text:p text:style-name="P5"><text:s/>F#m <text:s text:c="3"/>E <text:s text:c="5"/>D <text:s text:c="2"/>Bm <text:s text:c="13"/>C#m <text:s text:c="5"/>F#m</text:p>
-   <text:p text:style-name="P5">Lord renew my mind as Your will unfolds my life</text:p>
-   <text:p text:style-name="P5"><text:s text:c="16"/>D <text:s/>E <text:s text:c="23"/>A</text:p>
-   <text:p text:style-name="P5">In living everydaaaay by the power of Your love</text:p>
-   <text:p text:style-name="P5"/>
-   <text:p text:style-name="P5">Chorus:</text:p>
-   <text:p text:style-name="P5"><text:s/>D <text:s text:c="7"/>E <text:s text:c="21"/>A</text:p>
-   <text:p text:style-name="P5">Hold me close, let Your love surround me</text:p>
-   <text:p text:style-name="P5"><text:s/>D <text:s text:c="7"/>E <text:s text:c="21"/>F#m C#m</text:p>
-   <text:p text:style-name="P5">Bring me near <text:s/>draw me to your side</text:p>
-   <text:p text:style-name="P5"><text:s text:c="4"/>D <text:s text:c="4"/>E <text:s text:c="25"/>A <text:s text:c="4"/>F#m</text:p>
-   <text:p text:style-name="P5">And as I wait, I&apos;ll rise up like the eagle,</text:p>
-   <text:p text:style-name="P5"><text:s text:c="4"/>E <text:s text:c="16"/>D <text:s text:c="23"/>E</text:p>
-   <text:p text:style-name="P5">And I will soar with You, Your Spirit leads me on</text:p>
-   <text:p text:style-name="P5"><text:s text:c="22"/>F#m C#m D <text:s/>E</text:p>
-   <text:p text:style-name="P5">In the power of Your love</text:p>
-   <text:p text:style-name="P5"/>
-   <text:p text:style-name="P5">F#m C#m D <text:s/>E</text:p>
-   <text:p text:style-name="P5">F#m C#m D <text:s/>E</text:p>
-   <text:p text:style-name="P5">F#m C#m D <text:s/>E</text:p>
-   <text:p text:style-name="P5">F#m C#m D <text:s/>E</text:p>
-   <text:p text:style-name="P5">F#m C#m D</text:p>
-   <text:p text:style-name="P5"><text:s text:c="8"/>Ahhhh</text:p>
-   <text:p text:style-name="P5">E <text:s text:c="4"/>A</text:p>
-   <text:p text:style-name="P5">Ahhhh Ahhhh</text:p>
+   <text:p text:style-name="P3">The Power Of Your Love</text:p>
+   <text:p text:style-name="P2">Rebecca St James</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Por C#m, BMP 100 Segun Chord IA https://chordai.net/</text:p>
+   <text:p text:style-name="P1">Para voz de Washington <text:span text:style-name="T1">mas 5 semitonos</text:span> F#m</text:p>
+   <text:p text:style-name="P1"><text:s/></text:p>
+   <text:p text:style-name="P1">F#m C#m D <text:s/>E</text:p>
+   <text:p text:style-name="P1">F#m C#m D <text:s/>E</text:p>
+   <text:p text:style-name="P1">F#m C#m D <text:s/>E</text:p>
+   <text:p text:style-name="P1">F#m C#m D <text:s/>E</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:s/>F#m <text:s text:c="3"/>E <text:s text:c="6"/>D <text:s text:c="3"/>Bm <text:s text:c="14"/>C#m <text:s text:c="5"/>F#m</text:p>
+   <text:p text:style-name="P1">Lord I come to You, let my heart be changed renewed</text:p>
+   <text:p text:style-name="P1"><text:s text:c="19"/>D <text:s text:c="13"/>C#m <text:s text:c="5"/>F#m C#m</text:p>
+   <text:p text:style-name="P1">Flowing from the grace that I&apos;ve found in You</text:p>
+   <text:p text:style-name="P1"><text:s/>F#m <text:s text:c="6"/>E <text:s text:c="7"/>D <text:s text:c="6"/>Bm <text:s text:c="10"/>C#m <text:s text:c="3"/>F#m</text:p>
+   <text:p text:style-name="P1">Lord I&apos;ve come to know the weaknesses I see in me</text:p>
+   <text:p text:style-name="P1"><text:s text:c="19"/>D <text:s/>E <text:s text:c="23"/>A</text:p>
+   <text:p text:style-name="P1">Will be stripped awaaaay by the power of Your love</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Chorus:</text:p>
+   <text:p text:style-name="P1"><text:s/>D <text:s text:c="7"/>E <text:s text:c="21"/>A</text:p>
+   <text:p text:style-name="P1">Hold me close, let Your love surround me</text:p>
+   <text:p text:style-name="P1"><text:s/>D <text:s text:c="7"/>E <text:s text:c="21"/>F#m C#m</text:p>
+   <text:p text:style-name="P1">Bring me near <text:s/>draw me to your side</text:p>
+   <text:p text:style-name="P1"><text:s text:c="4"/>D <text:s text:c="4"/>E <text:s text:c="25"/>A <text:s text:c="4"/>F#m</text:p>
+   <text:p text:style-name="P1">And as I wait, I&apos;ll rise up like the eagle,</text:p>
+   <text:p text:style-name="P1"><text:s text:c="4"/>E <text:s text:c="16"/>D <text:s text:c="23"/>E</text:p>
+   <text:p text:style-name="P1">And I will soar with You, Your Spirit leads me on</text:p>
+   <text:p text:style-name="P1"><text:s text:c="22"/>F#m C#m D <text:s/>E</text:p>
+   <text:p text:style-name="P1">In the power of Your love</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">F#m C#m D <text:s/>E</text:p>
+   <text:p text:style-name="P1"><text:s/></text:p>
+   <text:p text:style-name="P1"><text:s/>F#m <text:s text:c="3"/>E <text:s text:c="5"/>D <text:s text:c="3"/>Bm <text:s text:c="14"/>C#m <text:s text:c="5"/>F#m</text:p>
+   <text:p text:style-name="P1">Lord unveil my eyes let me see You face to face</text:p>
+   <text:p text:style-name="P1"><text:s text:c="23"/>D <text:s text:c="10"/>C#m <text:s text:c="5"/>F#m C#m</text:p>
+   <text:p text:style-name="P1">The knowledge of Your love as You lives in me</text:p>
+   <text:p text:style-name="P1"><text:s/>F#m <text:s text:c="3"/>E <text:s text:c="5"/>D <text:s text:c="2"/>Bm <text:s text:c="13"/>C#m <text:s text:c="5"/>F#m</text:p>
+   <text:p text:style-name="P1">Lord renew my mind as Your will unfolds my life</text:p>
+   <text:p text:style-name="P1"><text:s text:c="16"/>D <text:s/>E <text:s text:c="23"/>A</text:p>
+   <text:p text:style-name="P1">In living everydaaaay by the power of Your love</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Chorus:</text:p>
+   <text:p text:style-name="P1"><text:s/>D <text:s text:c="7"/>E <text:s text:c="21"/>A</text:p>
+   <text:p text:style-name="P1">Hold me close, let Your love surround me</text:p>
+   <text:p text:style-name="P1"><text:s/>D <text:s text:c="7"/>E <text:s text:c="21"/>F#m C#m</text:p>
+   <text:p text:style-name="P1">Bring me near <text:s/>draw me to your side</text:p>
+   <text:p text:style-name="P1"><text:s text:c="4"/>D <text:s text:c="4"/>E <text:s text:c="25"/>A <text:s text:c="4"/>F#m</text:p>
+   <text:p text:style-name="P1">And as I wait, I&apos;ll rise up like the eagle,</text:p>
+   <text:p text:style-name="P1"><text:s text:c="4"/>E <text:s text:c="16"/>D <text:s text:c="23"/>E</text:p>
+   <text:p text:style-name="P1">And I will soar with You, Your Spirit leads me on</text:p>
+   <text:p text:style-name="P1"><text:s text:c="22"/>F#m C#m D <text:s/>E</text:p>
+   <text:p text:style-name="P1">In the power of Your love</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">F#m C#m D <text:s/>E</text:p>
+   <text:p text:style-name="P1">F#m C#m D <text:s/>E</text:p>
+   <text:p text:style-name="P1">F#m C#m D <text:s/>E</text:p>
+   <text:p text:style-name="P1">F#m C#m D <text:s/>E</text:p>
+   <text:p text:style-name="P1">F#m C#m D</text:p>
+   <text:p text:style-name="P1"><text:s text:c="8"/>Ahhhh</text:p>
+   <text:p text:style-name="P1">E <text:s text:c="4"/>A</text:p>
+   <text:p text:style-name="P1">Ahhhh Ahhhh</text:p>
   </office:text>
  </office:body>
 </office:document>
